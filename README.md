@@ -4,7 +4,7 @@
 > Status do Projeto: Em desenvolvimento :warning:
 
 
-<p align="justify"> Esse projeto foi feito no curso de Desenvolvimento Web Full Stack da Labenu. É um projeto inspirado no Ifood, utilizando uma API própria da Labenu.
+<p align="justify"> Esse é um projeto de Frontend Web feito no curso de Desenvolvimento Web Full Stack da Labenu. É um projeto inspirado no Ifood, utilizando uma API própria da Labenu.
  </p>
  
 <h1 align="justify"> Desenvolvedores/Contribuintes </h1>
