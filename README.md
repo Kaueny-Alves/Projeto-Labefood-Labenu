@@ -29,11 +29,13 @@
 
 
 <h1 align="justify"> Link do surge </h1>
-<p align="justify">
+
 - email: future@future
+ 
 - senha: future
+
 - [http://ifuturea.surge.sh](http://ifuturea.surge.sh/login)
- </p>
+
 
 <h1 align="justify"> O que não funciona </h1>
 
